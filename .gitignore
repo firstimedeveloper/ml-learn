@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 sklearn-venv/
+ml-venv/
 
 # included from github provided .gitignore file for python
 # Byte-compiled / optimized / DLL files
