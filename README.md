@@ -16,6 +16,6 @@ $ pip3 freeze > requirements.txt
 ## The course
 ### Learing to use pandas, matplotlib to clean up, process, and visualize data.
 1. Regression
-	- [diabetes]("1-diabetes.ipynb")
-	- [linnerud]("2-linnerud.ipynb")
-	- [pumpkins]("3-pumpkins.ipynb")
+	- [diabetes](/1-diabetes.ipynb)
+	- [linnerud](/2-linnerud.ipynb)
+	- [pumpkins](/3-pumpkins.ipynb)
